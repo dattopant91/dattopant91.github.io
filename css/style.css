@@ -785,7 +785,7 @@ h3.my-profession {
     background: var(--skin-color); 
     border-radius: 20px;
   }
-@media (max-width: 720px){
+@media (max-width: 450px){
     .portfolio .portfolio-item .portfolio-img img {
     height: 198px;
 }
